@@ -39,3 +39,10 @@ INNER JOIN titles as ti
 ON em.emp_no = ti.emp_no
 WHERE (em.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date = '9999-01-01')
 ORDER BY em.emp_no;
+
+--DELIVERABLE 3
+select count(emp_no) from unique_titles_table
+--or
+select sum(count) from retiring_titles_table
+
+select count(emp_no) from mentor_eligibility_table
