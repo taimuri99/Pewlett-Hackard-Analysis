@@ -1,5 +1,5 @@
 # Pewlett Hackard Analysis
-Analysis of retiring employee information using sql queries in PgAdmin.
+Module 7: Employee Database with SQL: Analysis of retiring employee information using sql queries in PgAdmin.
 ## Overview of the analysis
 In this challenge we were tasked to find the number of retiring employees per title and find how many out of those retiring employees are eligible to act as mentors for the next generation of Pewlett Hackard employees. The purpose of this analysis was to try and prepare for the upcoming "Silver Tsunami" in which, in a short period, a high number of older employees are retiring leaving open positions and lesser workforce. This could have adverse effects if not dealt with properly or promptly as the company would be tasked to find a huge number of replacements in a very short time. 
 
